@@ -8,9 +8,6 @@ const typeDefs = gql`
     description: String
     bookId: String
     image: String
-    forSale: String
-    link: String
-    title: String
   }
   type User {
     _id: ID
@@ -31,9 +28,6 @@ const typeDefs = gql`
     description: String
     bookId: String
     image: String
-    forSale: String
-    link: String
-    title: String
   }
   type Mutation {
     login(email: String!, password: String!): Auth
