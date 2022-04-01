@@ -7,6 +7,8 @@ const typeDefs = gql`
     authors: [String]
     description: String
     bookId: String
+    link: String
+    title: String
     image: String
   }
   type User {
@@ -26,6 +28,8 @@ const typeDefs = gql`
   input SavedBookInput {
     authors: [String]
     description: String
+    title: String
+    link: String
     bookId: String
     image: String
   }
