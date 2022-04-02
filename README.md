@@ -1,6 +1,6 @@
 # BookSearch2.0
 
-![GitHub](https://img.shields.io/github/license/magicalburritos/BookSearch2.0)
+![GitHub](https://img.shields.io/github/license/Magicalburritos/BookSearch2.0)
 
 ## Description
 
